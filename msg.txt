@@ -1,1 +1,1 @@
-Aspiring Fullstack Developer
+Aspiring Fullstack Developer with a strong focus on frontend development using React and a growing expertise in backend tools like Node.js
