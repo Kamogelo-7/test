@@ -1,5 +1,5 @@
 
-interpret:
+interpreter:
 
 "Holy L what the hell"
 
