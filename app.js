@@ -1,9 +1,9 @@
-function nam(name, age, work) {
+const data = (name, age, work) => {
   return {
     name,
     age,
     work,
   };
 }
-const dataRes = nam("john", 30, "Help-Desk");
+const dataRes = data("john", 30, "Help-Desk");
 console.log(dataRes);
